@@ -8,7 +8,7 @@ import time
 
 janela = pg.display.set_mode((300+(2*20), 300+(2*20)))
 janela.fill([0, 0, 0])
-pg.display.set_caption("Jogo do Galo")
+pg.display.set_caption("Tic Tac Toe")
 pg.display.update()
 #font init
 pg.font.init()
