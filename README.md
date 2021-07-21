@@ -12,5 +12,4 @@
  
 To play it you just need to install the dependencies (pygame and time) and run the _game_loop.py file.
 
-========================================================================================
--# Some parts of the code are in Portuguese, you can translate them while I don't change
+
