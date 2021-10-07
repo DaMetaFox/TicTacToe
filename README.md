@@ -22,5 +22,7 @@ Tiles:
    Red player:
  >      Arrows
  >      Enter : select
-   
-#_Esc_ to deactivate sound effects
+
+
+Control:   
+>     "Esc" to deactivate sound effects
