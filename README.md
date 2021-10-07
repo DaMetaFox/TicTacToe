@@ -12,4 +12,15 @@
  
 To play it you just need to install the dependencies (pygame and time) and run the _game_loop.py file.
 
-
+Tiles:
+   Green player:
+ >      A : <---- 
+ >      D : ---->
+ >      W : ^
+ >      S : \/  (down)
+ >      Space : select
+   Red player:
+ >      Arrows
+ >      Enter : select
+   
+#_Esc_ to deactivate sound effects
